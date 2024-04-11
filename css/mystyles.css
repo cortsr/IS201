@@ -1,0 +1,68 @@
+.common{
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+    }
+
+.header{
+    text-align:left;
+    height:30px;
+    background-color:black;
+    color:white;
+    line-height:30px;
+}
+
+.mainbody{
+    background-color:aliceblue;
+    right:5px;
+    left:5px;
+    text-align:center;
+}
+
+ul{
+    text-align:left;
+    display:inline-block;
+}
+
+ol{
+    text-align:left;
+    display:inline-block;
+}
+
+.footer{
+    height:25px;
+    font-size:15px;
+    background-color:black;
+    color:white;
+    bottom:0px;
+    position:relative;
+    right:5px;
+    left:5px;
+}
+
+:visited{
+    color:white;
+}
+
+ol{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+ul{
+    font-weight:normal;
+}
+
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:30%;
+}
+
+p{
+    text-align: left;
+}
+
+h4{
+    text-align: left;
+}
